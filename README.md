@@ -1,6 +1,7 @@
 # movie_tiket
 
-A new Flutter project.
+A new Flutter Movie Ticket.</br>
+Clone for https://200lab.io/blog/flutter-ui-movie-ticket-app/
 
 ## Getting Started
 
